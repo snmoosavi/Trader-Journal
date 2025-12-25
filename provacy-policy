@@ -1,0 +1,87 @@
+PRIVACY POLICY — Trader Companion
+
+Effective date: 2025-12-25
+Publisher: AriaVision
+Support email: sn.moosavi@gmail.com
+
+Trader Companion (“the App”) is a local-first Windows desktop application designed to help traders manage their process (checklists, risk sizing), record trades, and view price charts. This Privacy Policy explains what data the App processes and how it is handled.
+
+1) Summary (Plain English)
+
+- The App is local-first: your journal entries and settings are stored on your PC.
+- The App does not require an account and does not collect personal data for the publisher by default.
+- If you use Price Charts, the App makes public API requests to retrieve market data. Like any internet request, this may expose your IP address to the data provider.
+- The App does not sell personal data.
+- You can delete your data at any time by removing the App’s local data files.
+
+2) Data the App Processes
+
+2.1 Data you enter (stored locally)
+The App may store the following locally on your device:
+- Trade journal entries (symbol, direction, entry/stop/target, quantity, PnL, notes, tags, emotions, timestamps)
+- Session/checklist states and guardrail settings
+- App preferences (theme, close behavior, mini panel settings, etc.)
+
+2.2 Screenshots (optional, stored locally)
+If you use the “Capture Before/After” screenshot buttons, the App saves:
+- Screenshot image files on your device
+- References to screenshot file paths in the local database
+
+Note: Screenshots may contain sensitive information depending on what is visible on your screen. Screenshot capture is optional.
+
+2.3 Logs (stored locally)
+The App may create local log files for troubleshooting (e.g., startup events, feature events, errors). Logs are stored on your device.
+
+2.4 Data the App does not collect by default
+The App does not:
+- Collect your name, address, phone number, or precise location
+- Require account registration or passwords
+- Access your contacts, emails, camera, or microphone
+- Transmit your trade journal/database to the publisher by default
+
+3) Network Access (Price Charts)
+
+If you use the Price Charts feature, the App may request public market data from third-party services (e.g., public exchange APIs). Requests typically include:
+- The requested market/product (e.g., BTC-USD)
+- The requested time range and granularity
+
+What third parties may see: third-party API providers may receive technical metadata such as your IP address, user-agent, and request timing. This is controlled by the third-party provider’s infrastructure and policies.
+
+4) How Data Is Stored
+
+The App stores information locally in an application data folder (for example, a local SQLite database plus optional screenshots and logs). The exact path depends on your installation, but data is stored on your machine.
+
+5) Sharing and Disclosure
+
+AriaVision does not receive your journal data unless you choose to share it (for example, by sending exported CSV files, screenshots, or logs to support). The App does not sell or rent personal data.
+
+6) Data Retention and Deletion
+
+- Your data remains on your device until you delete it.
+- You can delete trade history and settings by removing the App’s local data files or uninstalling the App (depending on how your system handles app data).
+- Exported files (e.g., CSV backups) are stored wherever you choose to save them.
+
+7) Security
+
+The App is designed to minimize risk using local-first storage and minimal network usage. However, no software can guarantee absolute security. You are responsible for securing your device (Windows account security, disk encryption, etc.).
+
+If you capture screenshots, treat them as sensitive files and store/share them carefully.
+
+8) Children’s Privacy
+
+The App is not intended for children under 13. We do not knowingly collect personal information from children.
+
+9) International Users
+
+The App runs locally on your device. If you use Price Charts, network requests may be routed to servers in other countries depending on the third-party provider.
+
+10) Changes to This Policy
+
+We may update this Privacy Policy from time to time. If we make material changes, we will update the Effective date above. Continued use of the App after updates indicates acceptance of the revised policy.
+
+11) Contact
+
+If you have questions about this Privacy Policy or the App’s data handling, contact:
+
+AriaVision
+Email: sn.moosavi@gmail.com
